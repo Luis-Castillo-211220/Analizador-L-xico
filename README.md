@@ -1,7 +1,7 @@
 # Compiladores e Interpretes.
 
-Luis Humberto Castillo Alvarado - 211220
-Cesar Augusto Gomez Magdaleno - 211174
+Luis Humberto Castillo Alvarado 211220 - 
+Cesar Augusto Gomez Magdaleno 211174
 ----------------------------------------------------------
 
 Tokens + Lexemas:
