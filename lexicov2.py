@@ -88,7 +88,7 @@ def check_code():
 
 # Parte de la interfaz gráfica relacionada con el analizador léxico
 root = tk.Tk()
-root.title("Analizador Lexico y Sintactico")
+root.title("Analizador Lexico")
 root.configure(bg='white')
 
 main_frame = ttk.Frame(root, padding=10)
